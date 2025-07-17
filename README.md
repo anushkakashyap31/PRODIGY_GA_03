@@ -1,92 +1,94 @@
-🚀 PRODIGY_GA_03 — Markov Chain Text Generation
+# **🚀 PRODIGY\_GA\_03 — Markov Chain Text Generation**
 
-This repository contains Task 3: Markov Chain Text Generation Project as part of my Generative AI Internship at Prodigy Infotech, where I built a text generator using Markov Chains based on a given text input.
+This repository contains **Task 3: Markov Chain Text Generation Project** as part of my **Generative AI Internship at Prodigy Infotech**, where I built a text generator using Markov Chains based on a given text input.
 
-💡 Project Overview
+---
+
+### **💡 Project Overview**
 
 In this task, I have:
 
-Implemented a Markov Chain-based text generator from scratch using Python.
+* Implemented a **Markov Chain-based text generator** from scratch using Python.
+* Taken an input text file and generated random text that mimics the style of the original input.
+* Allowed dynamic input of **order** for the Markov Chain model.
+* Performed text cleaning, mapping of prefixes to suffixes, and generated new sequences.
 
-Taken an input text file and generated random text that mimics the style of the original input.
+---
 
-Allowed dynamic input of order for the Markov Chain model.
+### **📄 Files Included**
 
-Performed text cleaning, mapping of prefixes to suffixes, and generated new sequences.
+* `markov_text_generator.py`: Main Python script for building and generating text using a Markov Chain.
+* `input.txt`: Text file used as the base input for generating new text.
+* `output.txt`: Generated output saved in this file.
+* `.gitignore`: To exclude unnecessary files/folders.
+* `README.md`: You are here!
 
-📄 Files Included
+---
 
-markov_text_generator.py: Main Python script for building and generating text using a Markov Chain.
+### **⚙️ Technologies Used**
 
-input.txt: Text file used as the base input for generating new text.
+* Python 3.9+
+* VSCode
+* Basic File I/O
+* Dictionaries and Lists
+* Random Module
 
-output.txt: Generated output saved in this file.
+---
 
-.gitignore: To exclude unnecessary files/folders.
+### **✅ How to Use**
 
-README.md: You are here!
+1️⃣ **Clone the repository**
 
-⚙️ Technologies Used
-
-Python 3.9+
-
-VSCode
-
-Basic File I/O
-
-Dictionaries and Lists
-
-Random Module
-
-✅ How to Use
-
-1️⃣ Clone the repository
-
+```
 git clone https://github.com/anushkakashyap31/PRODIGY_GA_03
 cd PRODIGY_GA_03
+```
 
-2️⃣ Ensure input.txt contains the source text
+2️⃣ **Ensure **************************************************************************`input.txt`************************************************************************** contains the source text**
 
-You can modify input.txt with your own large text data (novels, articles, etc.).
+You can modify `input.txt` with your own large text data (novels, articles, etc.).
 
+```
 python markov_generator.py
+```
 
-4️⃣ Follow prompts:
+4️⃣ **Follow prompts:**
 
-Enter the desired order (e.g., 2, 3, or 4) when asked.
+* Enter the desired *order* (e.g., 2, 3, or 4) when asked.
+* The script will generate random text based on the input file and print it as well as you will save it in `output.txt`.
 
-The script will generate random text based on the input file and print it as well as you will save it in output.txt.
+---
 
-📌 Example
+### **📌 Example**
 
-If your input.txt contains:
+If your `input.txt` contains:
 
-"I love learning AI. AI is the future of technology."
+> "I love learning AI. AI is the future of technology."
 
-And your order is 2, the generated output might look like:
+And your *order* is 2, the generated output might look like:
 
-"AI is the future of technology. AI is the future..."
+> "AI is the future of technology. AI is the future..."
 
-🎯 Objectives
+---
 
-Understand the concept of Markov Chains in text generation.
+### **🎯 Objectives**
 
-Implement text mapping and transition logic.
+* Understand the concept of **Markov Chains** in text generation.
+* Implement text mapping and transition logic.
+* Gain practical experience with randomness and sequences.
 
-Gain practical experience with randomness and sequences.
+---
 
-👩‍💻 Author
+### **👩‍💻 Author**
 
-Anushka Kashyap
+**Anushka Kashyap**
 
-⭐ Acknowledgements
+---
 
-Prodigy Infotech
+### **⭐ Acknowledgements**
 
-Python Language Community
-
-My Mentors & Reviewers
-
-
+* Prodigy Infotech
+* Python Language Community
+* My Mentors & Reviewers
 
 ✨ Do ⭐ star the repo if you found it helpful or interesting!
