@@ -1,0 +1,18 @@
+PS C:\Users\HPP\Task_3_Markov_Text_Generation> python markov_generator.py
+🔤 Enter a start phrase (at least 4 words recommended):
+→ Virat Kohli also known as
+
+📌 Generating text...
+
+📝 Generated Text:
+
+Virat Kohli also known as King Kohli. Kohlis father, Prem Kohli, was a criminal lawyer, and his mother, Saroj Kohli, a homemaker. From a young age, Virat displayed immense passion and talent for cricket. At just 9 years old, he joined the West Delhi Cricket Academy under coach Rajkumar Sharma. His dedication stood outhe was the first to arrive and the last to leave practice sessions. A significant moment early in his life came in 2006, when his father passed away while he was in the middle of a Ranji Trophy match. Instead of withdrawing, Virat chose to play and
+PS C:\Users\HPP\Task_3_Markov_Text_Generation> python markov_generator.py
+🔤 Enter a start phrase (at least 4 words recommended):
+→ Kohli has been associated with
+
+📌 Generating text...
+
+📝 Generated Text:
+
+Kohli has been associated with Royal Challengers Bangalore RCB since the inception of the Indian Premier League IPL in 2008. Kohli remains the highest run-scorer in IPL history, with several memorable knocks. He led RCB as captain from 2013 to 2021 and continues to be their key player and icon. In IPL, Kohli has always been the heart and soul of Royal Challengers Bangalore RCB. Though the franchise often underperformed, Kohli remained loyal. After years of heartbreaks, near-misses, and fan frustration, RCB finally clinched their maiden IPL title in 2025, a moment that brought tears to millions, especially to Virat
