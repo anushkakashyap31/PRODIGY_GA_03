@@ -1,8 +1,4 @@
-# **🚀 PRODIGY\_GA\_03 — Markov Chain Text Generation**
-
-This repository contains **Task 3: Markov Chain Text Generation Project** as part of my **Generative AI Internship at Prodigy Infotech**, where I built a text generator using Markov Chains based on a given text input.
-
----
+# **Markov Chain Text Generation**
 
 ### **💡 Project Overview**
 
